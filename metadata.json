@@ -1,0 +1,6 @@
+{
+  "name": "TabX 多开",
+  "description": "Multi-session tab browser with independent cookie/storage sandboxes, custom User-Agent, one-click cache cleaning, tab synchronization, and GM99 斗罗大陆H5 game automation & script recorder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
